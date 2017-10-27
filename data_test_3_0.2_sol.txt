@@ -1,0 +1,11 @@
+Original size: 200
+Problem size: 42
+Optimization status: 1
+Solution size: 26
+
+Solution node IDs: 
+1, 2, 9, 17, 19, 21, 31, 42, 44, 54, 65, 70, 85, 98, 110, 111, 121, 122, 133, 137, 143, 149, 154, 162, 172, 195, 
+
+Isolated node IDs (15): 
+6, 15, 16, 51, 102, 112, 123, 131, 134, 142, 153, 183, 186, 197, 198, 
+
