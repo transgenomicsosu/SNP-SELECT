@@ -1,6 +1,6 @@
 # SNP-SELECT
 
-Shuzhen Sun, Zhuqi Miao, Blaise Ratcliffe, Polly Campbell, Bret Pasch, Yousry A. El-Kassaby, Balabhaskar Balasundaram, Charles Chen. 2018. "Graph domination for SNP variable selection", Plos One. (Under revision) 
+Shuzhen Sun, Zhuqi Miao, Blaise Ratcliffe, Polly Campbell, Bret Pasch, Yousry A. El-Kassaby, Balabhaskar Balasundaram, Charles Chen. 2018. "Graph domination for SNP variable selection".
 
 SNP variable selection tool
 
