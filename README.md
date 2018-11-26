@@ -12,7 +12,7 @@ This program is implemented for numeric genotype data that is coded as 0, 1, and
 
 "data_test.csv" is the data file used to test the program, and the results are included in the output branch;
 
-"simulation.zip" are the data files corresponding to the simulation analysis;
+"simulation.zip" are the data files corresponding to the simulation study;
 
 "mice.zip" is the data file corresponding to the clustering analysis;
 
