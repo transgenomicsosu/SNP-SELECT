@@ -5,6 +5,14 @@ This software is developed to select significan SNP variables without phenotype 
 
 This program is implemented for numeric genotype data that is coded as 0, 1, and 2. 
 
+"kdom.cpp" is the source file;
+
+"data_test.csv" is the data file used to test the program, and the results are included in the output branch;
+
+"mice.zip" is the data file corresponding to the clustering analysis;
+
+"Douglas_fir.zip" is the data file corresponding to the pedigree recovery analysis;
+
 Users can adjust the paramaters, including input file (INPUT), threshold value (THRE) and k value (K), based on their need.
 
 Input and output pathway need to be adjusted as well.
